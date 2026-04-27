@@ -1,5 +1,5 @@
-🌿 樹木医ツール — Arborist Certified Tools
-> 樹木医（日本樹木医会認定）が監修した、無料の樹木管理Webツール集。  
+🌿 樹木医ツール — Arborist Tools
+> 樹木医が監修した、無料の樹木管理Webツール集。  
 > 病害虫の早期発見・剪定適期の判断・現地健全度調査をブラウザから即座に実行できます。
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 [![Tools](https://img.shields.io/badge/Tools-3-brightgreen)]()
@@ -92,7 +92,7 @@ Issues からお気軽にどうぞ。テンプレートを用意しています�
 MIT License — 商用・非商用問わず自由に使用・改変・再配布できます。著作権表示は保持してください。
 ---
 👤 監修・開発
-樹木医監修: 日本樹木医会認定 樹木医
+樹木医監修: 樹木医
 開発: @raitopapa
 ---
 📊 ロードマップ
